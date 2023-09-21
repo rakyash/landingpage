@@ -11,4 +11,4 @@
 •	The signup data of the user is in userdata database with sign-up-data as tablename , and the emails from the users
   for the newsletter is in email-list database in email-newsletter table.
 
-
+GitHub Live Link:https://rakyash.github.io/landingpage/
